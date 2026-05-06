@@ -1,3 +1,4 @@
 /.env
 /csv
 /database
+node_modules/
