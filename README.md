@@ -2,6 +2,7 @@
 
 Genios is a Spanish-first web application for reading, discovering, and collaboratively annotating poetry. Readers can select any passage in a poem, attach an interpretation or context, explore overlapping annotations, and support useful contributions with likes.
 
+https://genios-phi.vercel.app/
 ## Features
 
 - Browse poems with server-side search, era filters, and pagination.
