@@ -44,8 +44,8 @@ The schema must be exposed through the Supabase Data API, and its grants and RLS
 1. Clone the repository and install dependencies:
 
    ```bash
-   git clone https://github.com/jaimemartinez-99/poemas.git
-   cd poemas
+   git clone https://github.com/jaimemartinez-99/genios.git
+   cd genios
    npm ci
    ```
 
